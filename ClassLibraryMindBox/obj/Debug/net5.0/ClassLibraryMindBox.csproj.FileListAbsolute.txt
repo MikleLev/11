@@ -1,0 +1,12 @@
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\bin\Debug\net5.0\ClassLibraryMindBox.deps.json
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\bin\Debug\net5.0\ClassLibraryMindBox.dll
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\bin\Debug\net5.0\ref\ClassLibraryMindBox.dll
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\bin\Debug\net5.0\ClassLibraryMindBox.pdb
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.csproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.AssemblyInfo.cs
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.csproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.dll
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ref\ClassLibraryMindBox.dll
+C:\Users\Миша\source\repos\ClassLibraryMindBox\ClassLibraryMindBox\obj\Debug\net5.0\ClassLibraryMindBox.pdb
